@@ -6,7 +6,7 @@ Start the project with environment setup and run the jupyterlab
 
 ```
 pip install virtualenv
-virtualenv datavidia_final
+virtualenv [enviroment name]
 source datavidia_final/bin/activate
 pip install -r requirements.txt
 
